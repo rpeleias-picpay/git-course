@@ -1,1 +1,1 @@
-console.log('hello rodrigo');
+console.log('hello rodrigo with routes');
